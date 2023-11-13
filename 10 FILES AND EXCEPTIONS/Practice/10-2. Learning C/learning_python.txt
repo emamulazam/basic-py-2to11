@@ -1,0 +1,3 @@
+In Python you can define variables and assign values to them.
+In Python you can create functions to organize your code.
+In Python you can use libraries and modules to extend functionality.
